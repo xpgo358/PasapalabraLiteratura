@@ -1,149 +1,86 @@
 [
   {
     "letter": "A",
-    "question": "Empieza por la A: Profesion o cargo eclesiastico del autor del 'libro del buen amor'",
-    "answer": "arcipreste",
-    "status": "unanswered"
-  },
-  {
-    "letter": "B",
-    "question": "Empieza por la B: Apellido del primer autor de nombre conocido",
-    "answer": "berceo",
+    "question": "Comença per A: Quin càrrec va exercir Sor Isabel de Villena en el convent on va desenvolupar la seva vida religiosa?",
+    "answer": "abadessa",
     "status": "unanswered"
   },
   {
     "letter": "C",
-    "question": "Empieza por la C: Nombre de la obra mas importante escrita por Fernando de Rojas",
-    "answer": "celestina",
+    "question": "Comença per C: On va residir Sor Isabel de Villena per redactar la seva obra principal?",
+    "answer": "convent",
     "status": "unanswered"
   },
   {
     "letter": "D",
-    "question": "Empieza por la D: Nombre de la obra escrita por Bocaccio de estructura similar al 'Conde Lucanor'",
-    "answer": "decameron",
+    "question": "Comença per D: Quin estil literari, ple d'ironia, caracteritza el *Spill* de Jaume Roig?",
+    "answer": "didàctic",
     "status": "unanswered"
   },
   {
     "letter": "E",
-    "question": "Contiene la E: Apellido del autor de las 'Coplas a la muerte de su padre'",
-    "answer": "manrique",
-    "status": "unanswered"
-  },
-  {
-    "letter": "F",
-    "question": "Empieza por la F: Nombre del autor de 'La Celestina'",
-    "answer": "fernando",
-    "status": "unanswered"
-  },
-  {
-    "letter": "G",
-    "question": "Empieza por la G: Hay de dos tipos: Silenses y Emilianenses",
-    "answer": "glosas",
+    "question": "Conté la E: Quin valor espiritual, present en l'obra de Sor Isabel, inspira la seva visió devocional?",
+    "answer": "esperança",
     "status": "unanswered"
   },
   {
     "letter": "H",
-    "question": "Empieza por la H: Figura retorica que consiste en exajerar",
-    "answer": "hiperbole",
+    "question": "Comença per H: Quina virtut de modestia figura tant en el pensament de Sor Isabel de Villena com en els valors del context religiós?",
+    "answer": "humilitat",
     "status": "unanswered"
   },
   {
     "letter": "I",
-    "question": "Empieza por la I: Cargo politico de los *** de Carrión",
-    "answer": "infantes",
+    "question": "Comença per I: Quin nom porta la figura femenina que dóna nom a Sor Isabel de Villena?",
+    "answer": "isabel",
     "status": "unanswered"
   },
   {
     "letter": "J",
-    "question": "Empieza por la J: Composicion en mozarabe de las Moaxaca",
-    "answer": "jarcha",
-    "status": "unanswered"
-  },
-  { "letter": "K", "question": "", "answer": "", "status": "exclude" },
-  {
-    "letter": "L",
-    "question": "Contiene la L: Metafora continuada",
-    "answer": "alegoria",
+    "question": "Comença per J: Qui és l'autor del *Spill*, obra satírica que critica certs costums socials de la societat valenciana?",
+    "answer": "jaume",
     "status": "unanswered"
   },
   {
     "letter": "M",
-    "question": "Empieza por la M: Nombre de la protagonista femenina de 'La Celestina'",
-    "answer": "melibea",
-    "status": "unanswered"
-  },
-  {
-    "letter": "N",
-    "question": "Contiene la N: Criado del conde lucanor",
-    "answer": "patronio",
-    "status": "unanswered"
-  },
-  { "letter": "Ñ", "question": "", "answer": "", "status": "exclude" },
-  {
-    "letter": "O",
-    "question": "Contiene la O: Nombre del 'Cid'",
-    "answer": "rodrigo",
-    "status": "unanswered"
-  },
-  {
-    "letter": "P",
-    "question": "Empieza por la P: Caracteristica que sirve de apellido a Sancho en el Quijote",
-    "answer": "panza",
+    "question": "Comença per M: Quina professió exercia Jaume Roig, a més de dedicar-se a la literatura?",
+    "answer": "metge",
     "status": "unanswered"
   },
   {
     "letter": "Q",
-    "question": "Empieza por la Q: Titulo de la obra más importante de la lengua castellana",
-    "answer": "quijote",
+    "question": "Conté la Q: Quin element de qüestionament moral i social es pot extreure del *Spill* de Jaume Roig?",
+    "answer": "qüestionament",
     "status": "unanswered"
   },
   {
     "letter": "R",
-    "question": "Empieza por la R: 'Nuestras vidas son los *** que van a dar a la mar'",
-    "answer": "rios",
+    "question": "Comença per R: Quin concepte religiós central és àmpliament abordat en l'obra de Sor Isabel de Villena?",
+    "answer": "religió",
     "status": "unanswered"
   },
   {
     "letter": "S",
-    "question": "Contiene la S: Nombre del protagonista masculino de 'La Celestina'",
-    "answer": "calisto",
+    "question": "Comença per S: Quin títol honorífic s'usa per referir-se a Isabel de Villena en el seu context monàstic?",
+    "answer": "sor",
     "status": "unanswered"
   },
   {
     "letter": "T",
-    "question": "Empieza por la T: Localidad donde Alfonso X 'El Sabio' funda una escuela de traductores",
-    "answer": "toledo",
-    "status": "unanswered"
-  },
-  {
-    "letter": "U",
-    "question": "Contiene la U: Mujer de quien Quijote esta locamente enamorado",
-    "answer": "dulcinea",
+    "question": "Comença per T: Quin aspecte de crítica social es percep en el to del *Spill* de Jaume Roig?",
+    "answer": "tirania",
     "status": "unanswered"
   },
   {
     "letter": "V",
-    "question": "Contiene la V: Autor del 'Quijote'",
-    "answer": "cervantes",
-    "status": "unanswered"
-  },
-  { "letter": "W", "question": "", "answer": "", "status": "exclude" },
-  {
-    "letter": "X",
-    "question": "Empieza por la X: Siglo de oro de la literatura castellana",
-    "answer": "xvi",
-    "status": "unanswered"
-  },
-  {
-    "letter": "Y",
-    "question": "Contiene la Y: Cargo politico de Alfonso X 'El Sabio'",
-    "answer": "rey",
+    "question": "Comença per V: Quina és l'obra més rellevant de Sor Isabel de Villena, que va marcar la literatura religiosa femenina?",
+    "answer": "vita christi",
     "status": "unanswered"
   },
   {
     "letter": "Z",
-    "question": "Empieza por la Z: Poesía en mozarabe del siglo XII",
-    "answer": "zejel",
+    "question": "Comença per Z: Quin terme descriu la passió intensa per la reforma del pensament religiós que es pot extreure dels textos dels dos autors?",
+    "answer": "zel",
     "status": "unanswered"
   }
 ]
